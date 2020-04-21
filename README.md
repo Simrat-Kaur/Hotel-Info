@@ -1,3 +1,3 @@
-# Hotel-Information in Node.js
+# Hotel Information in Node.js
 Database - mongoDB
-Application Framework: Express
+Application Framework - Express
